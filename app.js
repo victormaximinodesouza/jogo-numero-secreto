@@ -9,7 +9,7 @@ paragrafo.innerText = 'escolha um numero entre 0 e 20';*/
 
 
 let listaDeNumeroSorteados = [];
-let numeroMaximo = 10;
+let numeroMaximo = 100;
 let numeroSecreto = 5;
 let tentativas = 1;
 
